@@ -1,2 +1,2 @@
 # UVa-Solutions
-Small collection of uploaded my UVa problem solutions
+Small collection of my UVa problem solutions
