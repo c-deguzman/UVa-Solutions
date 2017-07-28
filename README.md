@@ -1,5 +1,7 @@
 # UVa-Solutions
-Small collection of my UVa problem solutions.
+I am currently working through Competitive Programming, 3rd Edition by Steven Halim.
+This is a small collection of my solutions to UVa problems suggested by the textbook.
+All solutions are written in C++.
 
 Sample Topics Covered:
 - Bitmask
