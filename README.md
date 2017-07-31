@@ -6,7 +6,8 @@ All solutions are written in C++.
 Sample Topics Covered:
 - Bitmask
 - Union-Find Disjoint Set
-- Segement Tree 
+- Segement Tree
+- Dynamic Programming
 
 
 Recommended Problems to Try:
@@ -14,4 +15,4 @@ Recommended Problems to Try:
  - 11572 - Unique Snowflakes   (map thinking problem)
  - 11235 - Frequent values     (segment tree thinking problem)
  - 11402 - Ahoy, Pirates!      (segment tree with lazy propagation)
- - 11236 - Grocery store       (complete search with heavy pruning)
+ - 11553 - Grid Game           (bitmask dynamic programming with basic game theory)
