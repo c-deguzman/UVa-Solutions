@@ -8,6 +8,7 @@ Sample Topics Covered:
 - Union-Find Disjoint Set
 - Segement Tree
 - Dynamic Programming
+- Recursive Backtracking
 
 
 Recommended Problems to Try:
