@@ -23,6 +23,7 @@ void print_ans(double ans){
 
 int main()
 {
+    ios::sync_with_stdio(false);
 
     while (scanf(" %lf %lf %lf %lf %lf %lf", &p, &q, &r, &s, &t, &u) == 6){
         double hi = 1;
