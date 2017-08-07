@@ -9,6 +9,7 @@ Sample Topics Covered:
 - Segement Tree
 - Dynamic Programming
 - Recursive Backtracking
+- Binary Search
 
 
 Recommended Problems to Try:
