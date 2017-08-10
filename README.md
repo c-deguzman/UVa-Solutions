@@ -20,3 +20,4 @@ Recommended Problems to Try:
  - 11553 - Grid Game           (bitmask dynamic programming with basic game theory)
  - 193 - Graph Coloring        (maxium independent set - recursive backtracking)
  - 1262 - Password             (ad hoc - thinking)
+ - 183 - Bit Maps              (divide and conquer)
