@@ -10,6 +10,7 @@ Sample Topics Covered:
 - Dynamic Programming
 - Recursive Backtracking
 - Binary Search
+- Greedy
 
 
 Recommended Problems to Try:
