@@ -3,11 +3,8 @@ I am currently working through Competitive Programming, 3rd Edition by Steven Ha
 This is a small collection of my solutions to UVa problems suggested by the textbook.
 All solutions are written in C++.
 
-Currently on Chapter 3, Section 3
---------------------------------
-
 Sample Topics Covered:
-- Bitmask
+- Bit Manipulation
 - Union-Find Disjoint Set
 - Segement Tree
 - Dynamic Programming
@@ -25,3 +22,4 @@ Recommended Problems to Try:
  - 193 - Graph Coloring        (maxium independent set - recursive backtracking)
  - 1262 - Password             (ad hoc - thinking)
  - 183 - Bit Maps              (divide and conquer)
+ - 10718 - Bit Mask            (greedy, bit manipulation - thinking problem)
