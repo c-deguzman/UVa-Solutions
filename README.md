@@ -3,6 +3,9 @@ I am currently working through Competitive Programming, 3rd Edition by Steven Ha
 This is a small collection of my solutions to UVa problems suggested by the textbook.
 All solutions are written in C++.
 
+Currently on Chapter 3, Section 3
+=================================
+
 Sample Topics Covered:
 - Bitmask
 - Union-Find Disjoint Set
