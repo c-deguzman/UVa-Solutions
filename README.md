@@ -4,8 +4,7 @@ This is a small collection of my solutions to UVa problems suggested by the text
 All solutions are written in C++.
 
 Currently on Chapter 3, Section 3
-=================================
-=================================
+--------------------------------
 
 Sample Topics Covered:
 - Bitmask
