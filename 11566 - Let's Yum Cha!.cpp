@@ -43,9 +43,9 @@ int solve(int ind, int cost, int dishes){
 
     int best = -1e9;
 
-    best = max(best, solve(ind + 1, cost, dishes));
-    best = max(best, solve(ind + 1, cost + inp_price[ind], dishes + 1) + inp_fav[ind]);
-    best = max(best, solve(ind + 1, cost + inp_price[ind] * 2, dishes + 1 * 2) + inp_fav[ind] * 2);
+    for (int i=0; i <= 2; i++){
+        best = max(best, solve(ind + 1, cost + inp_price[ind] * i, dishes + i) + inp_fav[ind] * i);
+    }
 
     return ans[ind][cost][dishes] = best;
 }
