@@ -12,6 +12,7 @@ Sample Topics Covered:
 - Binary Search
 - Greedy
 - Topological Sorting
+- Articulation Points
 
 
 Recommended Problems to Try:
