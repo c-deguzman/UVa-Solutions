@@ -13,6 +13,7 @@ Sample Topics Covered:
 - Greedy
 - Topological Sorting
 - Articulation Points
+- Strongly Connected Components (Tarjan)
 
 
 Recommended Problems to Try:
