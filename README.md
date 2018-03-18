@@ -15,6 +15,7 @@ Sample Topics Covered:
 - Articulation Points
 - Strongly Connected Components (Tarjan)
 - Minimum Spanning Tree
+- Shortest Path (Dijkstra)
 
 
 Recommended Problems to Try:
@@ -27,3 +28,4 @@ Recommended Problems to Try:
  - 1262 - Password             (ad hoc - thinking)
  - 183 - Bit Maps              (divide and conquer)
  - 10718 - Bit Mask            (greedy, bit manipulation - thinking problem)
+ - 12047 - Highest Paid Toll   (multi-part shortest path problem)
