@@ -15,7 +15,7 @@ Sample Topics Covered:
 - Articulation Points
 - Strongly Connected Components (Tarjan)
 - Minimum Spanning Tree
-- Shortest Path (Dijkstra)
+- Shortest Path (Dijkstra, SPFA)
 
 
 Recommended Problems to Try:
