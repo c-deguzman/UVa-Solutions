@@ -16,6 +16,7 @@ Sample Topics Covered:
 - Strongly Connected Components (Tarjan)
 - Minimum Spanning Tree
 - Shortest Path (Dijkstra, SPFA)
+- Max Flow (Edmonds-Karp)
 
 
 Recommended Problems to Try:
