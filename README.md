@@ -30,4 +30,4 @@ Recommended Problems to Try:
  - 183 - Bit Maps              (divide and conquer)
  - 10718 - Bit Mask            (greedy, bit manipulation - thinking problem)
  - 12047 - Highest Paid Toll   (multi-part shortest path problem)
- - 820 - Internet Bandwidth    (bi-directional max flow problem)
+ - 11506 - Angry Programmer    (undirected min cut / max flow problem with vertex capacities)
