@@ -17,6 +17,7 @@ Sample Topics Covered:
 - Minimum Spanning Tree
 - Shortest Path (Dijkstra, SPFA)
 - Max Flow (Edmonds-Karp)
+- Eulerian Tour
 
 
 Recommended Problems to Try:
